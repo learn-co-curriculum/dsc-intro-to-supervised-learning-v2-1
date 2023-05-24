@@ -1,4 +1,3 @@
-
 # Introduction to Supervised Learning
 
 ## Introduction
@@ -17,7 +16,7 @@ The term **_Supervised Learning_** refers to a class of machine learning algorit
 
 ## Artificial Intelligence
 
-At the top of the hierarchy is **_Artificial Intelligence_**.  AI is a catch-all term for various kinds of algorithms that can complete tasks that normally require human intelligence to complete. AI is made up of several subcategories, and is also a subcategory itself in the greater hierarchy of Computer Science. When data scientists talk about AI, we're almost focused on a single branch of AI, **_Machine Learning_**. Machine Learning is responsible for the boom in AI technologies and abilities in the last few decades, but it's worth noting that there are other areas of AI that do not fall under the umbrella of 'Machine Learning'. Other branches of AI include things like _Genetic Algorithms_ for optimization, or rules-based AI for things like building a bot for players to play against in a video game. While these are still active areas of research, they have little to no application in Data Science, so they're beyond the scope of this lesson. In general, when you see the phrase 'Artificial Intelligence', it's generally safe to assume that that the speaker is probably referring to the subfield of AI known as **_Machine Learning_** (which is also sometimes referred to by it's older, more traditional name -- **_Statistical Learning_**).
+At the top of the hierarchy is **_Artificial Intelligence_**.  AI is a catch-all term for various kinds of algorithms that can complete tasks that normally require human intelligence to complete. AI is made up of several subcategories, and is also a subcategory itself in the greater hierarchy of Computer Science. When data scientists talk about AI, we're almost focused on a single branch of AI, **_Machine Learning_**. Machine Learning is responsible for the boom in AI technologies and abilities in the last few decades, but it's worth noting that there are other areas of AI that do not fall under the umbrella of 'Machine Learning'. Other branches of AI include things like _Genetic Algorithms_ for optimization, or rules-based AI for things like building a bot for players to play against in a video game. While these are still active areas of research, they have little to no application in Data Science, so they're beyond the scope of this lesson. In general, when you see the phrase 'Artificial Intelligence', it's generally safe to assume that the speaker is probably referring to the subfield of AI known as **_Machine Learning_** (which is also sometimes referred to by it's older, more traditional name -- **_Statistical Learning_**).
 
 The following graphic shows the breakdown of the 'Machine Learning' branch of AI:
 

@@ -20,7 +20,7 @@ At the top of the hierarchy is **_Artificial Intelligence_**.  AI is a catch-all
 
 The following graphic shows the breakdown of the 'Machine Learning' branch of AI:
 
-<img src='images/new_ml-hierarchy.png' width="600">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/new_ml-hierarchy.png' width="600">
 
 
 ## Machine Learning

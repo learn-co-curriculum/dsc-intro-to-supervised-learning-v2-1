@@ -20,7 +20,7 @@ At the top of the hierarchy is **_Artificial Intelligence_**.  AI is a catch-all
 
 The following graphic shows the breakdown of the 'Machine Learning' branch of AI:
 
-<img src='images/new_ml-hierarchy.png' width="600">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/new_ml-hierarchy.png' width="600">
 
 
 ## Machine Learning
@@ -28,7 +28,7 @@ The following graphic shows the breakdown of the 'Machine Learning' branch of AI
 The field of _Machine Learning_ can be further divided into two overall categories:
 
 1. **_Supervised Learning_**
-2. _Unsupervised Learning_
+2. **_Unsupervised Learning_**
 
 The main difference between these two areas of machine learning is the need for **_labeled training data_**. In **_Supervised Learning_**, any data used must have a **_label_**. These labels are the _ground truth_ , which allows our supervised learning algorithms to 'check their work'. By comparing its predictions against the actual labels, our algorithm can learn to make less incorrect predictions and improve the overall performance of the task its learning to do. It helps to think of Supervised Learning as close to the type of learning we do as students in grade school. Imagine using practice exams to study for the SAT or ACT test. We can go through all the practice questions we want, but in order to learn from our performance on those practice questions, we need to know what the correct answers are! Without them, we would have no way of knowing which questions we got right and which ones we got wrong, so we wouldn't be able to learn what changes we would need to make to improve our overall performance! 
 
@@ -47,7 +47,7 @@ We'll spend some time learning about **_Unsupervised Learning_** in the next mod
 
 The field of _Supervised Learning_ can be further broken down into two categories -- **_Classification_** and **_Regression_**. At this point in your studies, you already have significant experience with regression -- specifically **Linear Regression** , probably the most foundational (and important) machine learning model. Recall that regression allows us to answer questions like "how much?" or "how many?". If our label is a real-valued number, then the supervised learning problem you're trying to solve is a _regression_ problem. 
 
-The other main kind of supervised learning problem is **_Classification_**. Classification allows us to tell if something belongs to one class or the other. In the case of the [titanic](https://www.kaggle.com/c/titanic) dataset, this may be something like survival. For example, given various characteristics of a passenger, predict whether they will survive or not. Questions that can be answered in a True/False format (in the titanic example, "Survived" or "Not survived") are a type of **_Binary Classification_**. To perform binary classification, you will be introduced to **Logistic Regression**. Don't let the name confuse you, although the name contains the word "regression," this important foundational technique is very important in understanding classification problems. There are several other classification techniques you will be learning in this module, but in order to gain a sound understanding of **Classification** tasks, this section will be focused exclusively on building and evaluating logistic regression models. 
+The other main kind of supervised learning problem is **_Classification_**. Classification allows us to tell if something belongs to one class or the other. In the case of the [Titanic](https://www.kaggle.com/c/titanic) dataset, this may be something like survival. For example, given various characteristics of a passenger, predict whether they will survive or not. Questions that can be answered in a True/False format (in the Titanic example, "Survived" or "Not survived") are a type of **_Binary Classification_**. To perform binary classification, you will be introduced to **Logistic Regression**. Don't let the name confuse you, although the name contains the word "regression," this important foundational technique is very important in understanding classification problems. There are several other classification techniques you will be learning in this module, but in order to gain a sound understanding of **Classification** tasks, this section will be focused exclusively on building and evaluating logistic regression models. 
 
 However, we are not limited to only two classes when working with classification algorithms -- we can have as many classes as we see fit. When a supervised learning problem has more than two classes, we refer to it as a **_Multiclass Classification_** problem. 
 
